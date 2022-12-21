@@ -16,3 +16,10 @@ Me muestra las fotos que les fui sacando al proyecto que están dentro del LOCAL
 ```sh
 git log --oneline
 ```
+## GIT DIFF
+Me permite visualizar los cambios que hay entre el working directory y la última foto (commit) dentro de la caja de commits (local repo).
+
+```sh
+git diff
+```
+
