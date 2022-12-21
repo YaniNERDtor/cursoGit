@@ -23,3 +23,9 @@ Me permite visualizar los cambios que hay entre el working directory y la últim
 git diff
 ```
 
+## GIT AMMEND
+Me permite agregar cambios al último commit.
+
+```sh
+git ammend
+```
