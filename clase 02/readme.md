@@ -26,6 +26,11 @@ git diff
 ## GIT AMMEND
 Me permite agregar cambios al último commit.
 Coloco en el stage area los cambios que quiero sumar en el último commit ya sean líneas de código o archivos y luego hago el ammend.
+
+El git commit suele abrir un editor de texto (Nano) para colocar el mensaje o editar el mensaje actual
+
+Ctrl + O = Guardar
+Ctrl + X = Salir
 ```sh
 git ammend
 ```
