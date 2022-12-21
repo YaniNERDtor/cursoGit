@@ -25,7 +25,7 @@ git diff
 
 ## GIT AMMEND
 Me permite agregar cambios al último commit.
-
+Coloco en el stage area los cambios que quiero sumar en el último commit ya sean líneas de código o archivos y luego hago el ammend.
 ```sh
 git ammend
 ```
