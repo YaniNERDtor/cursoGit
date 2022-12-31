@@ -20,4 +20,8 @@ git branch
 ```sh
 git switch <nombre-rama>
 ```
+### Borrar rama
 
+```sh
+git branch -d <nombre-rama>
+```
