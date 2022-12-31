@@ -35,3 +35,8 @@ git push -u origin <nombre-rama>
 ```sh
 git clone <ruta-copiada> . # el punto le indica al clone que no cree un directorio nuevo, sino que cree en el directorio actual
 ```
+
+### Recuperar metadata del repositorio remoto
+```sh
+git fetch --all
+```
